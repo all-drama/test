@@ -1,1 +1,1 @@
-print("hiru")
+print("ha ja jan jaja")
